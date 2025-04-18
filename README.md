@@ -24,6 +24,13 @@
 
 ![snake gif](https://github.com/Akkicool99/Akkicool99/blob/output/github-snake-dark.svg)
 
+
+### 🧠 My LeetCode Stats  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/YOUR_USERNAME/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akshit9150?theme=dark&ext=contest)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=octocat.octocat)
 
 
