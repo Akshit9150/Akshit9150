@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akkicool99&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-
+## 🐍 Snake Animation
 ![snake gif](https://github.com/Akkicool99/Akkicool99/blob/output/github-snake-dark.svg)
 
 
@@ -31,7 +31,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Akshit9150?theme=dark&ext=contest)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=octocat.octocat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=octocat.octocat)
 
 
 
