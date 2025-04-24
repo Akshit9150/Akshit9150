@@ -26,7 +26,7 @@
 
 
 ### 🧠 My LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/YOUR_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/Akshit9150/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Akshit9150?theme=dark&ext=contest)
 
