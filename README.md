@@ -25,13 +25,25 @@
 ![snake gif](https://github.com/Akkicool99/Akkicool99/blob/output/github-snake-dark.svg)
 
 
-### 🧠 My LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/Akshit9150/)
+## 💡 LeetCode Profile
+If you love coding challenges, check out my LeetCode journey! 🚀  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Akshit9150?theme=dark&ext=contest)
+<p align="center">
+  <a href="https://leetcode.com/Akshit9150/">
+    <img src="https://leetcard.jacoblin.cool/Akshit9150?ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Akshit9150/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+</p>
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=octocat.octocat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akkicool99&color=blue" alt="Profile Views"/>
+</p>
 
 
 
