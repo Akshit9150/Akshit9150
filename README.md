@@ -14,15 +14,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akkicool99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Akshit9150&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Akkicool99&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkicool99&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit9150&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akkicool99&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Akshit9150&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 Snake Animation
-![snake gif](https://github.com/Akkicool99/Akkicool99/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Akshit9150/Akshit9150/blob/output/github-snake-dark.svg)
 
 
 ## 💡 LeetCode Profile
@@ -42,7 +42,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akkicool99&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshit9150&color=blue" alt="Profile Views"/>
 </p>
 
 
