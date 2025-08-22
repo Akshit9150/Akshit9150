@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-👋 Hi, I'm Akshit Verma<br>🚀 Upcoming Full-Stack Developer | 💻 Passionate about Building & Learning<br>I'm an aspiring Full-Stack Developer currently sharpening my skills in JavaScript, React, Node.js, Express, MongoDB, and more. I love crafting clean, responsive front-ends and efficient, scalable back-end systems.<br><br>
+👋 Hi, I'm Akshit Verma<br>🚀 Upcoming Software Developer Engineer | 💻 Passionate about Building & Learning<br>I'm an aspiring Software Developer currently sharpening my skills in JavaScript, React, Node.js, Express, MongoDB, and more. I love crafting clean, responsive front-ends and efficient, scalable back-end systems.<br><br>
 
 
 ## 🌐 Socials:
